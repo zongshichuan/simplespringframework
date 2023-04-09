@@ -1,0 +1,221 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="98bb6d7d-c7e3-4eab-a552-64a1b038adeb" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="AnnotationType" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="D:\develop_Environment\etl_repository\repository" />
+        <option name="mavenHome" value="D:/develop_Environment/maven/apache-maven-3.6.0" />
+        <option name="userSettingsFile" value="D:\develop_Environment\maven\apache-maven-3.6.0\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2O93rkKEH0Gz9BYZcm3b3s6Nt8q" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_directory_selection" value="$PROJECT_DIR$/src/main/java/org/simpleframework" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/test/java/org/simpleframework/inject" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="org.simpleframework" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\develop\learn\simplespringframework\src\test\java\org\simpleframework\inject" />
+      <recent name="D:\develop\learn\simplespringframework\src\main\java\org\simpleframework\core\inject\annotation" />
+      <recent name="D:\develop\learn\simplespringframework\src\main\java\org\simpleframework\util" />
+      <recent name="D:\develop\learn\simplespringframework\src\main\java\org\simpleframework\annotation" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.DependencyInjectorTest.doIocTest">
+    <configuration name="BeanContainerTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="simplespringframework" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.simpleframework.core.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.simpleframework.core" />
+      <option name="MAIN_CLASS_NAME" value="org.simpleframework.core.BeanContainerTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BeanContainerTest.getBeanTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="simplespringframework" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.simpleframework.core.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.simpleframework.core" />
+      <option name="MAIN_CLASS_NAME" value="org.simpleframework.core.BeanContainerTest" />
+      <option name="METHOD_NAME" value="getBeanTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BeanContainerTest.loadBeansTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="simplespringframework" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.simpleframework.core.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.simpleframework.core" />
+      <option name="MAIN_CLASS_NAME" value="org.simpleframework.core.BeanContainerTest" />
+      <option name="METHOD_NAME" value="loadBeansTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ClassUtilTest.extractPackageClassTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="simplespringframework" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.simpleframework.util.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.simpleframework.util" />
+      <option name="MAIN_CLASS_NAME" value="org.simpleframework.util.ClassUtilTest" />
+      <option name="METHOD_NAME" value="extractPackageClassTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DependencyInjectorTest.doIocTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="simplespringframework" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.simpleframework.inject.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.simpleframework.inject" />
+      <option name="MAIN_CLASS_NAME" value="org.simpleframework.inject.DependencyInjectorTest" />
+      <option name="METHOD_NAME" value="doIocTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.DependencyInjectorTest.doIocTest" />
+        <item itemvalue="JUnit.BeanContainerTest" />
+        <item itemvalue="JUnit.BeanContainerTest.getBeanTest" />
+        <item itemvalue="JUnit.BeanContainerTest.loadBeansTest" />
+        <item itemvalue="JUnit.ClassUtilTest.extractPackageClassTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="98bb6d7d-c7e3-4eab-a552-64a1b038adeb" name="Default Changelist" comment="" />
+      <created>1680959170631</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1680959170631</updated>
+      <workItem from="1680959176809" duration="10428000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="0" y="343" key="#Project_Structure" timestamp="1680962335606">
+      <screen x="0" y="0" width="1707" height="1019" />
+    </state>
+    <state x="0" y="343" key="#Project_Structure/0.0.1707.1019@0.0.1707.1019" timestamp="1680962335606" />
+    <state x="729" y="409" key="#com.intellij.ide.util.MemberChooser" timestamp="1681027380601">
+      <screen x="0" y="0" width="1707" height="1019" />
+    </state>
+    <state x="729" y="409" key="#com.intellij.ide.util.MemberChooser/0.0.1707.1019@0.0.1707.1019" timestamp="1681027380601" />
+    <state x="815" y="698" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1681026093493">
+      <screen x="0" y="0" width="1707" height="1019" />
+    </state>
+    <state x="815" y="698" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/0.0.1707.1019@0.0.1707.1019" timestamp="1681026093493" />
+    <state x="1047" y="658" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages" timestamp="1681026094987">
+      <screen x="0" y="0" width="1707" height="1019" />
+    </state>
+    <state x="1047" y="658" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages/0.0.1707.1019@0.0.1707.1019" timestamp="1681026094987" />
+    <state width="497" height="466" key="DebuggerActiveHint" timestamp="1681027500036">
+      <screen x="0" y="0" width="1707" height="1019" />
+    </state>
+    <state width="497" height="466" key="DebuggerActiveHint/0.0.1707.1019@0.0.1707.1019" timestamp="1681027500036" />
+    <state x="663" y="288" key="FileChooserDialogImpl" timestamp="1680959731450">
+      <screen x="0" y="0" width="1707" height="1019" />
+    </state>
+    <state x="663" y="288" key="FileChooserDialogImpl/0.0.1707.1019@0.0.1707.1019" timestamp="1680959731450" />
+    <state width="1342" height="440" key="GridCell.Tab.0.bottom" timestamp="1681028854916">
+      <screen x="0" y="0" width="1707" height="1019" />
+    </state>
+    <state width="1342" height="440" key="GridCell.Tab.0.bottom/0.0.1707.1019@0.0.1707.1019" timestamp="1681028854916" />
+    <state width="1342" height="440" key="GridCell.Tab.0.center" timestamp="1681028854916">
+      <screen x="0" y="0" width="1707" height="1019" />
+    </state>
+    <state width="1342" height="440" key="GridCell.Tab.0.center/0.0.1707.1019@0.0.1707.1019" timestamp="1681028854916" />
+    <state width="1342" height="440" key="GridCell.Tab.0.left" timestamp="1681028854916">
+      <screen x="0" y="0" width="1707" height="1019" />
+    </state>
+    <state width="1342" height="440" key="GridCell.Tab.0.left/0.0.1707.1019@0.0.1707.1019" timestamp="1681028854916" />
+    <state width="1342" height="440" key="GridCell.Tab.0.right" timestamp="1681028854916">
+      <screen x="0" y="0" width="1707" height="1019" />
+    </state>
+    <state width="1342" height="440" key="GridCell.Tab.0.right/0.0.1707.1019@0.0.1707.1019" timestamp="1681028854916" />
+    <state x="293" y="174" key="SettingsEditor" timestamp="1680962120572">
+      <screen x="0" y="0" width="1707" height="1019" />
+    </state>
+    <state x="293" y="174" key="SettingsEditor/0.0.1707.1019@0.0.1707.1019" timestamp="1680962120572" />
+    <state x="934" y="419" key="chooseDestDirectoryDialog" timestamp="1681021830260">
+      <screen x="0" y="0" width="1707" height="1019" />
+    </state>
+    <state x="934" y="419" key="chooseDestDirectoryDialog/0.0.1707.1019@0.0.1707.1019" timestamp="1681021830260" />
+    <state x="900" y="237" width="672" height="678" key="search.everywhere.popup" timestamp="1681023807952">
+      <screen x="0" y="0" width="1707" height="1019" />
+    </state>
+    <state x="900" y="237" width="672" height="678" key="search.everywhere.popup/0.0.1707.1019@0.0.1707.1019" timestamp="1681023807952" />
+  </component>
+</project>
