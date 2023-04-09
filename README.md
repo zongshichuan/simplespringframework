@@ -1,1 +1,7 @@
 # simplespringframework
+
+简单springframework实现
+
+包含简易的ioc功能、及其springframework的一些核心api
+
+旨在学习springframework
